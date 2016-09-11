@@ -1,0 +1,36 @@
+{
+  "file_hashes": [{
+    "block_hashes": ["BQgCDyJ+1h38RjeKIZQq/xQMzpOqh6GariZwqhiLzxo="],
+    "block_size": 4096,
+    "path": "background.js"
+  }, {
+    "block_hashes": ["Apv7ctdwGSZKUBv4ShMFM0Jt5x65XcMSlOkE261FCqI=", "BV5g/IaLGZbJ4qXLJLXnf1K3vrCF9AH2n7J6b8fYWsw=", "4BEdz7xrUBHUzSBOjkyRIg6e4DY6xizXuAY1YTrhcLs=", "4+FZy+C4i4zUR9KaLqO7b9N7inFBFzS0klkZc6cJbx0=", "TpCsAPNgdQaOqabvkxQF1ecjOPZuU82xLqK8V3IuyiA=", "4xEd6UMjaYnlkMqpXoHiBx20jmthXs3QpoY8fjplcDw=", "iq+3bPdXKNRgs2pw8LKt9QZF+Pr4eQJEJrWqTkD6Xig=", "1/b9qph61pT7YCvPEtiJqLYSAep8pBRrgYFcW0NjyqM=", "tQNPSGRQ6C1PuM6fiuXr8dWFUFXBvD2A4gW/lhekmWk=", "GVkthuYmKPKlWtWp+YXIU1HulsvaCQXsisHXMPjT9to=", "2stmeWC5p4O8YrfzWnqZrWS/iEsSFOyQvbdxGymkC6I=", "Xx/LQ3dk4vWRZM3tDrufdrkuyHYaPHjeu9LExrWV60c="],
+    "block_size": 4096,
+    "path": "html/agar.io.js"
+  }, {
+    "block_hashes": ["vgDmpQxm8sKzrkkRSWlF9kK3r7hbF+gObK+UGTprAsk="],
+    "block_size": 4096,
+    "path": "html/i18n.js"
+  }, {
+    "block_hashes": ["bQj3uewhZbh7LwhiTd81wzvMOh0xrrWhW0pyGVF+MMI=", "LuFSvmrBjIrzDYWyWen+KIAMvvycM6ABR2RwkvmTdRw=", "uyID5LM5Siszb5ZSzla/GPsmzDgD1ULxcDT0X4xXY4g=", "KAWOWEj7bMoYjpsLc0ncfXLNvOxexVq7Yq3kvmKBeCs=", "fBKdMvQ15cUnlQmBdY16IkweabnZY/sgLwqljDrWuKk=", "k38lyMhy7rylDIqMiCHAx7j7dMQSHkFtEIFC2LOR8k4=", "kFBfA52Q1sPvquCFL3hg455upYeNWYIJbDsxcHSYHV0="],
+    "block_size": 4096,
+    "path": "html/index.html"
+  }, {
+    "block_hashes": ["eJL+D79OgzQosTn499gbvVmbK89VX+UVR5akFNCCs60=", "J1HToArJeiIu16yeMWVddUvlhLhPMTsWDham4sN21+A=", "crubKlS5K7RW1jqtDnCbt4U+ZNtE0Eie90uFRVSsS30="],
+    "block_size": 4096,
+    "path": "html/style.css"
+  }, {
+    "block_hashes": ["sStUP12Bw4ObQSBwFjAxp6Ns+OxbkB5e6Kh1lXPR4Rw="],
+    "block_size": 4096,
+    "path": "img/btn/icon32.png"
+  }, {
+    "block_hashes": ["Kd/2M8G/ugZcqSv7HaATzeQhbddAR/XsQfhul4StYac=", "WjTCr/mJ3mshAeringQlHiY2nK0L+egSkKsPpUo4sPA=", "SQK6guIRY5Rb3qyfuz5ZtZmh2uL/Zu1//sSmeNbfHXQ=", "Mewo8htF2/Qk3lg7RJDvlk0GHomhpQcC4J3pSm+6WJo="],
+    "block_size": 4096,
+    "path": "img/btn/icon64.png"
+  }, {
+    "block_hashes": ["AHJ/ODkHDYBQMp3mZjoRtapMGRh/JCrY/FhUcw+Ssas="],
+    "block_size": 4096,
+    "path": "inject.js"
+  }],
+  "version": 2
+}
